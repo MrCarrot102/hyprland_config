@@ -1,2 +1,5 @@
+package bass
+package fzf
+package pj
 theme bobthefish
 theme default
